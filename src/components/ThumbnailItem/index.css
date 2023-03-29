@@ -1,0 +1,12 @@
+.thumbnail-image {
+    opacity: 0.5;
+}
+
+.selected-image {
+    opacity: 1;
+}
+
+.list {
+    list-style-type: none;
+    cursor: pointer;
+}
